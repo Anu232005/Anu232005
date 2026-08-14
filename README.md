@@ -155,35 +155,6 @@ Worked on a **Medical Insurance Cost Prediction & Healthcare Analytics** applica
 
 ---
 
-## 📈 My Developer Journey
-
-```text
-Software Development
-        ↓
-Python & Java
-        ↓
-Machine Learning & AI
-        ↓
-Computer Vision
-        ↓
-Full-Stack Development
-        ↓
-UI/UX & User-Centric Design
-        ↓
-Building Real-World Solutions 🚀
-```
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Anu232005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Anu232005&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🌱 Currently Growing In
 
 * 🤖 Artificial Intelligence & Machine Learning
@@ -202,7 +173,7 @@ Building Real-World Solutions 🚀
   <a href="mailto:anu23062005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/Anu-Priya/">
+  <a href="https://www.linkedin.com/in/anu-priya-r-v-81b8272b9?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Anu232005">
